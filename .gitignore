@@ -1,0 +1,13 @@
+# MPLAB X / C18 build output
+build/
+dist/
+nbproject/private/
+*.o
+*.hex
+*.cof
+*.elf
+*.map
+*.lst
+*.exe
+a.out
+.vscode/
